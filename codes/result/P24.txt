@@ -1,0 +1,140 @@
+tempo gasto 0.007663 milisegundos
+teste A soma CORRETA dos numeros do vetor eh 1999999000000
+Thread 2 trabalhou e conseguiu 17360930556
+Thread 0 trabalhou e conseguiu 3472152778
+Thread 3 trabalhou e conseguiu 24305319445
+Thread 4 trabalhou e conseguiu 31249708334
+Thread 1 trabalhou e conseguiu 10416541667
+Thread 5 trabalhou e conseguiu 38194097223
+Thread 8 trabalhou e conseguiu 59027263890
+Thread 10 trabalhou e conseguiu 72916041668
+Thread 7 trabalhou e conseguiu 52082875001
+Thread 9 trabalhou e conseguiu 65971652779
+Thread 11 trabalhou e conseguiu 79860430557
+Thread 6 trabalhou e conseguiu 45138486112
+Thread 13 trabalhou e conseguiu 93749208335
+Thread 12 trabalhou e conseguiu 86804819446
+Thread 23 trabalhou e conseguiu 163209097189
+Thread 14 trabalhou e conseguiu 100693597224
+Thread 16 trabalhou e conseguiu 114582375002
+Thread 17 trabalhou e conseguiu 121526763891
+Thread 19 trabalhou e conseguiu 135415541669
+Thread 15 trabalhou e conseguiu 107637986113
+Thread 20 trabalhou e conseguiu 142359930558
+Thread 18 trabalhou e conseguiu 128471152780
+Thread 22 trabalhou e conseguiu 156248708336
+Thread 21 trabalhou e conseguiu 149304319447
+tempo gasto 0.015265 milisegundos
+teste A soma dos numeros do vetor com threads eh 1999999000000
+tempo gasto 0.010844 milisegundos
+teste A soma CORRETA dos numeros do vetor eh 1999999000000
+Thread 0 trabalhou e conseguiu 3472152778
+Thread 2 trabalhou e conseguiu 17360930556
+Thread 1 trabalhou e conseguiu 10416541667
+Thread 3 trabalhou e conseguiu 24305319445
+Thread 4 trabalhou e conseguiu 31249708334
+Thread 9 trabalhou e conseguiu 65971652779
+Thread 8 trabalhou e conseguiu 59027263890
+Thread 5 trabalhou e conseguiu 38194097223
+Thread 11 trabalhou e conseguiu 79860430557
+Thread 13 trabalhou e conseguiu 93749208335
+Thread 10 trabalhou e conseguiu 72916041668
+Thread 6 trabalhou e conseguiu 45138486112
+Thread 12 trabalhou e conseguiu 86804819446
+Thread 7 trabalhou e conseguiu 52082875001
+Thread 14 trabalhou e conseguiu 100693597224
+Thread 15 trabalhou e conseguiu 107637986113
+Thread 16 trabalhou e conseguiu 114582375002
+Thread 21 trabalhou e conseguiu 149304319447
+Thread 17 trabalhou e conseguiu 121526763891
+Thread 20 trabalhou e conseguiu 142359930558
+Thread 22 trabalhou e conseguiu 156248708336
+Thread 19 trabalhou e conseguiu 135415541669
+Thread 23 trabalhou e conseguiu 163209097189
+Thread 18 trabalhou e conseguiu 128471152780
+tempo gasto 0.024924 milisegundos
+teste A soma dos numeros do vetor com threads eh 1999999000000
+tempo gasto 0.008231 milisegundos
+teste A soma CORRETA dos numeros do vetor eh 1999999000000
+Thread 0 trabalhou e conseguiu 3472152778
+Thread 1 trabalhou e conseguiu 10416541667
+Thread 2 trabalhou e conseguiu 17360930556
+Thread 3 trabalhou e conseguiu 24305319445
+Thread 4 trabalhou e conseguiu 31249708334
+Thread 7 trabalhou e conseguiu 52082875001
+Thread 5 trabalhou e conseguiu 38194097223
+Thread 6 trabalhou e conseguiu 45138486112
+Thread 15 trabalhou e conseguiu 107637986113
+Thread 9 trabalhou e conseguiu 65971652779
+Thread 8 trabalhou e conseguiu 59027263890
+Thread 14 trabalhou e conseguiu 100693597224
+Thread 16 trabalhou e conseguiu 114582375002
+Thread 11 trabalhou e conseguiu 79860430557
+Thread 12 trabalhou e conseguiu 86804819446
+Thread 10 trabalhou e conseguiu 72916041668
+Thread 13 trabalhou e conseguiu 93749208335
+Thread 17 trabalhou e conseguiu 121526763891
+Thread 20 trabalhou e conseguiu 142359930558
+Thread 18 trabalhou e conseguiu 128471152780
+Thread 23 trabalhou e conseguiu 163209097189
+Thread 21 trabalhou e conseguiu 149304319447
+Thread 22 trabalhou e conseguiu 156248708336
+Thread 19 trabalhou e conseguiu 135415541669
+tempo gasto 0.016355 milisegundos
+teste A soma dos numeros do vetor com threads eh 1999999000000
+tempo gasto 0.011412 milisegundos
+teste A soma CORRETA dos numeros do vetor eh 1999999000000
+Thread 0 trabalhou e conseguiu 3472152778
+Thread 1 trabalhou e conseguiu 10416541667
+Thread 2 trabalhou e conseguiu 17360930556
+Thread 4 trabalhou e conseguiu 31249708334
+Thread 3 trabalhou e conseguiu 24305319445
+Thread 8 trabalhou e conseguiu 59027263890
+Thread 5 trabalhou e conseguiu 38194097223
+Thread 11 trabalhou e conseguiu 79860430557
+Thread 7 trabalhou e conseguiu 52082875001
+Thread 6 trabalhou e conseguiu 45138486112
+Thread 10 trabalhou e conseguiu 72916041668
+Thread 12 trabalhou e conseguiu 86804819446
+Thread 9 trabalhou e conseguiu 65971652779
+Thread 13 trabalhou e conseguiu 93749208335
+Thread 16 trabalhou e conseguiu 114582375002
+Thread 19 trabalhou e conseguiu 135415541669
+Thread 21 trabalhou e conseguiu 149304319447
+Thread 14 trabalhou e conseguiu 100693597224
+Thread 15 trabalhou e conseguiu 107637986113
+Thread 22 trabalhou e conseguiu 156248708336
+Thread 23 trabalhou e conseguiu 163209097189
+Thread 20 trabalhou e conseguiu 142359930558
+Thread 18 trabalhou e conseguiu 128471152780
+Thread 17 trabalhou e conseguiu 121526763891
+tempo gasto 0.022903 milisegundos
+teste A soma dos numeros do vetor com threads eh 1999999000000
+tempo gasto 0.008993 milisegundos
+teste A soma CORRETA dos numeros do vetor eh 1999999000000
+Thread 2 trabalhou e conseguiu 17360930556
+Thread 0 trabalhou e conseguiu 3472152778
+Thread 1 trabalhou e conseguiu 10416541667
+Thread 14 trabalhou e conseguiu 100693597224
+Thread 19 trabalhou e conseguiu 135415541669
+Thread 18 trabalhou e conseguiu 128471152780
+Thread 13 trabalhou e conseguiu 93749208335
+Thread 20 trabalhou e conseguiu 142359930558
+Thread 15 trabalhou e conseguiu 107637986113
+Thread 16 trabalhou e conseguiu 114582375002
+Thread 17 trabalhou e conseguiu 121526763891
+Thread 7 trabalhou e conseguiu 52082875001
+Thread 10 trabalhou e conseguiu 72916041668
+Thread 6 trabalhou e conseguiu 45138486112
+Thread 5 trabalhou e conseguiu 38194097223
+Thread 8 trabalhou e conseguiu 59027263890
+Thread 12 trabalhou e conseguiu 86804819446
+Thread 21 trabalhou e conseguiu 149304319447
+Thread 22 trabalhou e conseguiu 156248708336
+Thread 11 trabalhou e conseguiu 79860430557
+Thread 4 trabalhou e conseguiu 31249708334
+Thread 23 trabalhou e conseguiu 163209097189
+Thread 9 trabalhou e conseguiu 65971652779
+Thread 3 trabalhou e conseguiu 24305319445
+tempo gasto 0.013440 milisegundos
+teste A soma dos numeros do vetor com threads eh 1999999000000

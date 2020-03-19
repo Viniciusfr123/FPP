@@ -1,0 +1,40 @@
+tempo gasto 0.007139 milisegundos
+teste A soma CORRETA dos numeros do vetor eh 1999999000000
+Thread 3 trabalhou e conseguiu 874999750000
+Thread 0 trabalhou e conseguiu 124999750000
+Thread 1 trabalhou e conseguiu 374999750000
+Thread 2 trabalhou e conseguiu 624999750000
+tempo gasto 0.009331 milisegundos
+teste A soma dos numeros do vetor com threads eh 1999999000000
+tempo gasto 0.010614 milisegundos
+teste A soma CORRETA dos numeros do vetor eh 1999999000000
+Thread 0 trabalhou e conseguiu 124999750000
+Thread 1 trabalhou e conseguiu 374999750000
+Thread 2 trabalhou e conseguiu 624999750000
+Thread 3 trabalhou e conseguiu 874999750000
+tempo gasto 0.011112 milisegundos
+teste A soma dos numeros do vetor com threads eh 1999999000000
+tempo gasto 0.007174 milisegundos
+teste A soma CORRETA dos numeros do vetor eh 1999999000000
+Thread 2 trabalhou e conseguiu 624999750000
+Thread 0 trabalhou e conseguiu 124999750000
+Thread 1 trabalhou e conseguiu 374999750000
+Thread 3 trabalhou e conseguiu 874999750000
+tempo gasto 0.009036 milisegundos
+teste A soma dos numeros do vetor com threads eh 1999999000000
+tempo gasto 0.008471 milisegundos
+teste A soma CORRETA dos numeros do vetor eh 1999999000000
+Thread 1 trabalhou e conseguiu 374999750000
+Thread 0 trabalhou e conseguiu 124999750000
+Thread 2 trabalhou e conseguiu 624999750000
+Thread 3 trabalhou e conseguiu 874999750000
+tempo gasto 0.012799 milisegundos
+teste A soma dos numeros do vetor com threads eh 1999999000000
+tempo gasto 0.007069 milisegundos
+teste A soma CORRETA dos numeros do vetor eh 1999999000000
+Thread 3 trabalhou e conseguiu 874999750000
+Thread 0 trabalhou e conseguiu 124999750000
+Thread 1 trabalhou e conseguiu 374999750000
+Thread 2 trabalhou e conseguiu 624999750000
+tempo gasto 0.008548 milisegundos
+teste A soma dos numeros do vetor com threads eh 1999999000000
